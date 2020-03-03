@@ -1,0 +1,11 @@
+.coverage
+.eggs/**
+.pytest_cache/**
+.vscode/**
+.idea/**
+**/__pycache__/**
+**/*.egg-info
+**/*.log
+coverage.xml
+coverage/**
+bin/**
